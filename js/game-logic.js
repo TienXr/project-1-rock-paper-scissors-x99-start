@@ -35,5 +35,5 @@ function setPlayerMoves(player, moveOneType, moveOneValue, moveTwoType, moveTwoV
 }
 
 function getRoundWinner(round) {
-
+    
 }
